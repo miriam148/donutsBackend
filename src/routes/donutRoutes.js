@@ -20,7 +20,7 @@ router.get("/:id", getDonutById);
 router.put("/:id", updateDonut);
 router.delete("/:id", deleteDonut);
 
-// DE PAGO CON THUNDER
+// CUANDO GTRATO DE HACER LA PRUEBA DE SUBIDA DESDE THUNDER ME DICE QUE ES DE PAGO. NO BORRO PQ QUIERO BICHEARLO EN OTRO MOMENTO.ELIMINO CARPETA UPLOAD
 // Configuración de almacenamiento para las imágenes
 // const storage = multer.diskStorage({
 //   destination: (req, file, cb) => {
