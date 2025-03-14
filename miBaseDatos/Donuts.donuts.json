@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "67d402d4849153f19bbec1c1"
+  },
+  "name": "donuts pasion",
+  "description": "frutas del bosque",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d43ae33b37576f5f3d50b7"
+  },
+  "name": "Donuts clásico azucarado",
+  "description": "Donuts clásico azucarado",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d43af33b37576f5f3d50bb"
+  },
+  "name": "Donut con caramelo y nueces",
+  "description": "Donuts con relleno de crema",
+  "price": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d43b283b37576f5f3d50c1"
+  },
+  "name": "Donuts con relleno de crema",
+  "description": "frutas del bosque",
+  "price": 5,
+  "__v": 0
+}]

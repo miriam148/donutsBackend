@@ -24,7 +24,7 @@ router.delete("/:id", deleteDonut);
 // Configuración de almacenamiento para las imágenes
 // const storage = multer.diskStorage({
 //   destination: (req, file, cb) => {
-//     cb(null, "uploads/"); // Carpeta donde se guardarán las imágenes
+//     cb(null, "uploads/"); // Carpeta donde se guardarán las imágenes, esta carpeta sí la borro
 //   },
 //   filename: (req, file, cb) => {
 //     cb(null, Date.now() + path.extname(file.originalname)); // Nombre único
